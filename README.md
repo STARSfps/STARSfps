@@ -1,5 +1,5 @@
 <div>
-<h1 align="center"> Olá muito prazer👋, meu chamo Luciano!</h1><br>
+<h1 align="center"> Olá muito prazer👋, me chamo Luciano!</h1><br>
   <a href="https://github.com/STARSfps/github-readme-stats">
     <img height=210 Width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=STARSfps&theme=highcontrast&show_icons=true" />
       <br>
